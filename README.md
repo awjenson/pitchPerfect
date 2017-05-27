@@ -1,2 +1,3 @@
 # pitchPerfect
-pitch perfect ios development project taught through udacity
+Pitch Perfect iOS Development Project taught through Udacity's Nanodegree Program. 
+testing making comments
